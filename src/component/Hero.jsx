@@ -1,4 +1,4 @@
-import HeroImage from "../Image/Clinichero.jpeg"
+import HeroImage from "../Image/Hero"
 
 const Hero = () => {
   return (

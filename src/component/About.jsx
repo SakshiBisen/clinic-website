@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImage from "../Image/ClinicAbout.jpeg"
+import AboutImage from "../Image/About.jpeg";
 
 const Doctor = () => {
   return (
@@ -9,7 +9,7 @@ const Doctor = () => {
         {/* LEFT IMAGE */}
         <div className="relative">
           <img
-            src={AboutImage}
+           src={AboutImage}
             alt="doctor"
             className="rounded-xl w-full h-100 "
           />
