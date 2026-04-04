@@ -30,7 +30,7 @@ const Doctor = () => {
           <p className="text-gray-500 mb-2">— हमारे डॉक्टर</p>
 
           <h2 className="text-3xl font-bold text-gray-800">
-            डॉ. अनुज प्रताप सिंह
+            डॉ.अनुज प्रताप सिंह
           </h2>
 
           <h4 className="text-blue-600 font-semibold mt-2">
