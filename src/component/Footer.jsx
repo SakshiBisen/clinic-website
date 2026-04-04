@@ -13,9 +13,9 @@ const Footer = () => {
           </p>
 
           <div className="mt-4 space-y-1 text-gray-400">
-            <p>📍 Bhopal, India</p>
-            <p>📞 +91 9876543210</p>
-            <p>✉️ sakshiclinic@gmail.com</p>
+            <p>📍Himayunpur,mainpuri Uttar pradesh 205262</p>
+            <p>📞  +919033545074</p>
+            <p>✉️ at5857298@gmail.com</p>
           </div>
         </div>
 
@@ -38,11 +38,36 @@ const Footer = () => {
             Follow Us
           </h3>
 
-          <div className="flex gap-4 text-2xl">
-            <a href="#" className="hover:scale-110">📘</a>
-            <a href="#" className="hover:scale-110">📸</a>
-            <a href="#" className="hover:scale-110">🐦</a>
-          </div>
+         <div className="flex gap-4 text-2xl">
+  
+  {/* Email */}
+  <a 
+    href="at5857298@gmail.com" 
+    className="text-red-500 hover:scale-110"
+  >
+    📧
+  </a>
+
+  {/* Call */}
+  <a 
+    href="tel:+91928693615" 
+    className="text-green-600 hover:scale-110"
+  >
+    📞
+  </a>
+
+  {/* WhatsApp */}
+  <a 
+    href="https://wa.me/919876543210" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="text-green-500 hover:scale-110"
+  >
+    💬
+  </a>
+
+</div>
+
 
           <p className="text-gray-400 mt-4">
             Stay connected with us on social media.

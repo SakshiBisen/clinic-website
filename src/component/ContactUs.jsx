@@ -55,13 +55,15 @@ const Contact = () => {
         </div>
 
         {/* RIGHT SIDE - MAP */}
-        <div className="w-full h-[400px] rounded-xl overflow-hidden shadow">
-          <iframe
-            title="map"
-            src="https://www.google.com/maps?q=Himayunpur,Mainpuri,Uttar+Pradesh+205262" target="_blank"
-            className="w-full h-full border-0"
-            loading="lazy"
-          ></iframe>
+        <div>
+      <a 
+  href="https://www.google.com/maps/search/?api=1&query=Himayunpur+Mainpuri+Uttar+Pradesh+205262"
+
+  rel="noopener noreferrer"
+  className="text-blue-500 hover:scale-110"
+>
+  📍 Location
+</a>
         </div>
 
       </div>
