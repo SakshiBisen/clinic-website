@@ -14,7 +14,7 @@ const Hero = () => {
 
           {/* Heading */}
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
-            आपका <span className="text-blue-600">सबसे अच्छा डेंटल</span><br />
+            आपका <span className="text-blue-600">सबसे अच्छा इलाज</span><br />
             अनुभव यहाँ शुरू होता है
           </h1>
 
