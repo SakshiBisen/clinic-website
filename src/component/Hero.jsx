@@ -30,7 +30,7 @@ const Hero = () => {
             </button>
 
             <a
-              href="tel:8989011754"
+              href="tel:9033545074"
               className="text-black px-5 py-3 rounded-full shadow-lg hover:bg-blue-100 flex items-center gap-2"
             >
               📞 अभी कॉल करें
